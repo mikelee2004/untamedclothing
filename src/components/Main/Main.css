@@ -9,12 +9,14 @@
     padding: 20px 20px 50px;
 }
 .maininfo{
-    flex: 1 1 17rem;
+    flex: 1 1 13rem;
+    position: absolute;
+    top: 17%;
 }
 
 .mainimg{
-    flex: 1 1 17rem;
     width: 100%;
+    position: relative;
 }
 
 .maininfo h2{
@@ -29,18 +31,30 @@
 .maininfo p{
     font-size: 1.5rem;
     margin: 0.5rem 0 1.4rem;
+    color: white;
+    padding: 0 0 10px;
+}
+
+.spanwhite{
+    color: white;
+}
+
+.maininfo a{
+    text-decoration: none;
+    color: black;
 }
 
 .btn{
-    padding: 7px 50px;
-    border: 2px solid black;
+    padding: 10px 50px;
+    background: white;
+    border: 2px solid rgb(255, 255, 255);
     border-radius: 12px;
     font-weight: 700;
     transition: 0.3s;
 }
 
 .btn:hover{
-    color: orange;
+    color: rgb(255, 145, 0);
     background: white;
 }
 
@@ -122,6 +136,6 @@
     align-items: center;
     padding: 20px;
     justify-content: space-between;
-    padding-bottom: 35px;
+    padding-bottom: 10%;
 }
 

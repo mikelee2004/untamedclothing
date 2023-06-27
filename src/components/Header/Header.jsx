@@ -1,7 +1,14 @@
+import React, { useState } from 'react'
 import './Header.css'
 import logo from './../../img/svgs/logo.svg'
 
-function Header () {
+function Header() {
+    const [active, setActive] = useState('nav_menu');
+    const navToggle = () => {
+        active === 'nav_menu'
+            ? setActive('nav_menu nav_active')
+            : setActive('nav_menu');
+    }
     return (
         <header className="header">
             <div className="container">
@@ -9,15 +16,14 @@ function Header () {
                     <div className="header_logo">
                         <a href="@"><img src={logo} alt="Logo" /></a>
                     </div>
-                    <nav className="header__nav">
-                        <ul>
-                            <li><a href="#!">CLOTHES</a></li>
-                            <li><a href="#!">SHOES</a></li>
-                            <li><a href="#!">MAGAZINES</a></li>
-                            <li><a href="#!">ABOUT US</a></li>
-                            <li><a href="#!" className="header__btn">SIGN UP</a></li>
+                    <div className="navigation">
+                        <ul className={active}>
+                            <li><a href="#categories">CATEGORIES</a></li>
+                            <li><a href="#drops">DROPPED OUT</a></li>
+                            <li><a href="#footer">ABOUT US</a></li>
                         </ul>
-                    </nav>
+                    </div>
+                    <div onClick={navToggle} className='bx bx-menu' id="menu-icon"></div>
                 </div>
             </div>
         </header>
