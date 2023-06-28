@@ -1,8 +1,8 @@
-.footer{
+.ft{
     background: rgb(223, 223, 223);
 }
 
-.footer-section{
+.ft-section{
     display: flex;
     align-items: center;
     padding: 20px;
@@ -57,4 +57,82 @@
 
 .logo img{
     height: 100px;
+}
+
+@media all and (max-width: 1200px){
+    .contact-title p{
+        font-size: 14px;
+    }
+    .terms p{
+        font-size: 14px;
+    }
+    .contact-info p{
+        font-size: 14px;
+    }
+    .logo{
+        display: none;
+    }
+    .discount-title p{
+        font-size: 14px;
+    }
+    .email-input{
+        padding: 10px 30px;
+        border-radius: 15px;
+    }
+    .sub-btn{
+        padding: 0.5rem;
+        border-radius: 15px;
+    }
+}
+
+@media all and (max-width: 900px){
+    .contact-title p{
+        font-size: 12px;
+    }
+    .terms p{
+        font-size: 12px;
+    }
+    .contact-info p{
+        font-size: 12px;
+    }
+    .logo{
+        display: none;
+    }
+    .discount-title p{
+        font-size: 12px;
+    }
+    .email-input{
+        padding: 8px 20px;
+        border-radius: 12px;
+    }
+    .sub-btn{
+        padding: 0.4rem;
+        border-radius: 12px;
+    }
+}
+
+@media all and (max-width: 800px){
+    .contact-title p{
+        font-size: 8px;
+    }
+    .terms p{
+        font-size: 8px;
+    }
+    .contact-info p{
+        font-size: 8px;
+    }
+    .logo{
+        display: none;
+    }
+    .discount-title p{
+        font-size: 8px;
+    }
+    .email-input{
+        padding: 10px 30px;
+        border-radius: 10px;
+    }
+    .sub-btn{
+        padding: 0.2rem;
+        border-radius: 10px;
+    }
 }

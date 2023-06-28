@@ -9,13 +9,13 @@ const Footer = () => {
                 <div className="heading">
                     <h1>About Us</h1>
                 </div>
-                <div className="footer-section">
-                    <div className="footer-element">
+                <div className="ft-section">
+                    <div className="ft-element">
                         <div className="logo">
                             <a href="@"><img src={logo} alt="" /></a>
                         </div>
                     </div>
-                    <div className="footer-element">
+                    <div className="ft-element">
                         <div className="contact-title">
                             <p>contact us</p>
                         </div>
@@ -27,7 +27,7 @@ const Footer = () => {
                             <br />
                         </div>
                     </div>
-                    <div className="footer-element">
+                    <div className="ft-element">
                         <div className="terms">
                             <a href="@"><p>Terms Of Usage</p></a>
                             <br />
@@ -37,7 +37,7 @@ const Footer = () => {
                             <br />
                         </div>
                     </div>
-                    <div className="footer-element">
+                    <div className="ft-element">
                         <div className="discount-title">
                             <p>Subscribe on our news to get 10% discount!</p>
                         </div>

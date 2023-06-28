@@ -23,7 +23,7 @@ const Main = () => {
             <div className="mainimg">
                 <img src={mainpagejpg} />
             </div>
-            <div className='container'>
+            <div className='sech1'>
                 <div className="mainpart">
                     <div className="maininfo">
                         <h1>NEW ERA <span className='spanwhite'>OF STREETWEAR</span></h1>
