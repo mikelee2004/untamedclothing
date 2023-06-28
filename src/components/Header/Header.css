@@ -60,11 +60,12 @@ a.header__btn {
     display: none;
 }
 
-@media (max-width: 1000px){
-    #menu-icon{
+@media (max-width: 1000px) {
+    #menu-icon {
         display: initial;
     }
-    .nav_menu{
+
+    .nav_menu {
         position: fixed;
         top: 100px;
         right: 0;
@@ -76,11 +77,12 @@ a.header__btn {
         transition: 0.3s ease-in;
         z-index: 1001;
     }
-    .nav_menu li{
+
+    .nav_menu li {
         padding: 10px 0;
     }
-    
-    .nav_active{
+
+    .nav_active {
         transform: translateX(0);
     }
 }
