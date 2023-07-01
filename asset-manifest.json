@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/mikelee2004.github.io/untamedclothing/static/css/main.4f1f713b.css",
-    "main.js": "/mikelee2004.github.io/untamedclothing/static/js/main.8d3b80fe.js",
-    "static/media/part1.jpg": "/mikelee2004.github.io/untamedclothing/static/media/part1.0b7a206292f1bcd206c7.jpg",
-    "static/media/female.jpg": "/mikelee2004.github.io/untamedclothing/static/media/female.8aa8862c3a8c74b0cc5b.jpg",
-    "static/media/male.jpg": "/mikelee2004.github.io/untamedclothing/static/media/male.201471875eca2e7ba565.jpg",
-    "static/media/sneaks for her.jpg": "/mikelee2004.github.io/untamedclothing/static/media/sneaks for her.46f3e10c9ec205956ef6.jpg",
-    "static/media/ts2.jpg": "/mikelee2004.github.io/untamedclothing/static/media/ts2.a01b37385f764a11979e.jpg",
-    "static/media/sneaksforhim.jpg": "/mikelee2004.github.io/untamedclothing/static/media/sneaksforhim.9522ba8b1c46c0c6ab12.jpg",
-    "static/media/pants.jpg": "/mikelee2004.github.io/untamedclothing/static/media/pants.461d50304f697735685f.jpg",
-    "static/media/logo.svg": "/mikelee2004.github.io/untamedclothing/static/media/logo.47ded2d21f3c9b421110ab6484d32ad0.svg",
-    "static/media/ts.jpg": "/mikelee2004.github.io/untamedclothing/static/media/ts.a245650f9ffb05c2531a.jpg",
-    "static/media/hoodie.jpg": "/mikelee2004.github.io/untamedclothing/static/media/hoodie.799972c0fef6c83c72dc.jpg",
-    "static/media/tshirt1.jpg": "/mikelee2004.github.io/untamedclothing/static/media/tshirt1.6d933c411a24cc443c1b.jpg",
-    "static/media/beenie.jpg": "/mikelee2004.github.io/untamedclothing/static/media/beenie.262ccdb13a6fa967b968.jpg",
-    "static/media/duty.jpg": "/mikelee2004.github.io/untamedclothing/static/media/duty.930fa7d4ee2ca923b790.jpg",
-    "static/media/hoodie1.jpg": "/mikelee2004.github.io/untamedclothing/static/media/hoodie1.ba0276243c42ce75655b.jpg",
-    "static/media/duty2.jpg": "/mikelee2004.github.io/untamedclothing/static/media/duty2.5af8408730c8b610fc0b.jpg",
-    "static/media/glasses.jpg": "/mikelee2004.github.io/untamedclothing/static/media/glasses.7290a30d180aabb0c665.jpg",
-    "index.html": "/mikelee2004.github.io/untamedclothing/index.html",
-    "main.4f1f713b.css.map": "/mikelee2004.github.io/untamedclothing/static/css/main.4f1f713b.css.map",
-    "main.8d3b80fe.js.map": "/mikelee2004.github.io/untamedclothing/static/js/main.8d3b80fe.js.map"
+    "main.css": "/untamedclothing/static/css/main.4f1f713b.css",
+    "main.js": "/untamedclothing/static/js/main.536d6038.js",
+    "static/media/part1.jpg": "/untamedclothing/static/media/part1.0b7a206292f1bcd206c7.jpg",
+    "static/media/female.jpg": "/untamedclothing/static/media/female.8aa8862c3a8c74b0cc5b.jpg",
+    "static/media/male.jpg": "/untamedclothing/static/media/male.201471875eca2e7ba565.jpg",
+    "static/media/sneaks for her.jpg": "/untamedclothing/static/media/sneaks for her.46f3e10c9ec205956ef6.jpg",
+    "static/media/ts2.jpg": "/untamedclothing/static/media/ts2.a01b37385f764a11979e.jpg",
+    "static/media/sneaksforhim.jpg": "/untamedclothing/static/media/sneaksforhim.9522ba8b1c46c0c6ab12.jpg",
+    "static/media/pants.jpg": "/untamedclothing/static/media/pants.461d50304f697735685f.jpg",
+    "static/media/logo.svg": "/untamedclothing/static/media/logo.47ded2d21f3c9b421110ab6484d32ad0.svg",
+    "static/media/ts.jpg": "/untamedclothing/static/media/ts.a245650f9ffb05c2531a.jpg",
+    "static/media/hoodie.jpg": "/untamedclothing/static/media/hoodie.799972c0fef6c83c72dc.jpg",
+    "static/media/tshirt1.jpg": "/untamedclothing/static/media/tshirt1.6d933c411a24cc443c1b.jpg",
+    "static/media/beenie.jpg": "/untamedclothing/static/media/beenie.262ccdb13a6fa967b968.jpg",
+    "static/media/duty.jpg": "/untamedclothing/static/media/duty.930fa7d4ee2ca923b790.jpg",
+    "static/media/hoodie1.jpg": "/untamedclothing/static/media/hoodie1.ba0276243c42ce75655b.jpg",
+    "static/media/duty2.jpg": "/untamedclothing/static/media/duty2.5af8408730c8b610fc0b.jpg",
+    "static/media/glasses.jpg": "/untamedclothing/static/media/glasses.7290a30d180aabb0c665.jpg",
+    "index.html": "/untamedclothing/index.html",
+    "main.4f1f713b.css.map": "/untamedclothing/static/css/main.4f1f713b.css.map",
+    "main.536d6038.js.map": "/untamedclothing/static/js/main.536d6038.js.map"
   },
   "entrypoints": [
     "static/css/main.4f1f713b.css",
-    "static/js/main.8d3b80fe.js"
+    "static/js/main.536d6038.js"
   ]
 }
