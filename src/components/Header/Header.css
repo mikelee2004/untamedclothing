@@ -11,7 +11,7 @@
     justify-content: space-between;
 }
 
-.header__logo {
+.header_logo {
     width: 100%;
     position: relative;
     display: flex;
@@ -60,7 +60,7 @@ a.header__btn {
     display: none;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 1024px) {
     #menu-icon {
         display: initial;
     }
@@ -74,7 +74,7 @@ a.header__btn {
         background: rgb(255, 255, 255);
         flex-direction: column;
         transform: translateX(100%);
-        transition: 0.3s ease-in;
+        transition: 0.2s ease-in;
         z-index: 1001;
     }
 
@@ -84,5 +84,17 @@ a.header__btn {
 
     .nav_active {
         transform: translateX(0);
+    }
+}
+
+@media all and (max-width: 768px){
+    .header_logo img{
+        width: 70%;
+    }
+}
+
+@media all and (max-width: 480px){
+    .header_logo img{
+        height: 50%;
     }
 }

@@ -17,7 +17,7 @@ const Footer = () => {
                     </div>
                     <div className="ft-element">
                         <div className="contact-title">
-                            <p>contact us</p>
+                            <p>Contact Us</p>
                         </div>
                         <br />
                         <div className="contact-info">
