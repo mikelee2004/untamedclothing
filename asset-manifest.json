@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/untamedclothing/static/css/main.4f1f713b.css",
-    "main.js": "/untamedclothing/static/js/main.536d6038.js",
+    "main.css": "/untamedclothing/static/css/main.ce54b577.css",
+    "main.js": "/untamedclothing/static/js/main.b1042ba6.js",
     "static/media/part1.jpg": "/untamedclothing/static/media/part1.0b7a206292f1bcd206c7.jpg",
     "static/media/female.jpg": "/untamedclothing/static/media/female.8aa8862c3a8c74b0cc5b.jpg",
     "static/media/male.jpg": "/untamedclothing/static/media/male.201471875eca2e7ba565.jpg",
@@ -19,11 +19,11 @@
     "static/media/duty2.jpg": "/untamedclothing/static/media/duty2.5af8408730c8b610fc0b.jpg",
     "static/media/glasses.jpg": "/untamedclothing/static/media/glasses.7290a30d180aabb0c665.jpg",
     "index.html": "/untamedclothing/index.html",
-    "main.4f1f713b.css.map": "/untamedclothing/static/css/main.4f1f713b.css.map",
-    "main.536d6038.js.map": "/untamedclothing/static/js/main.536d6038.js.map"
+    "main.ce54b577.css.map": "/untamedclothing/static/css/main.ce54b577.css.map",
+    "main.b1042ba6.js.map": "/untamedclothing/static/js/main.b1042ba6.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f1f713b.css",
-    "static/js/main.536d6038.js"
+    "static/css/main.ce54b577.css",
+    "static/js/main.b1042ba6.js"
   ]
 }
