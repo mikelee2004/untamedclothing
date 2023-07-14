@@ -29,11 +29,11 @@ const Footer = () => {
                     </div>
                     <div className="ft-element">
                         <div className="terms">
-                            <a href="@"><p>Terms Of Usage</p></a>
+                            <a href="https://vk.com/o.strober"><p>VK</p></a>
                             <br />
-                            <a href="@"><p>Privace Policy</p></a>
+                            <a href="https://instagram.com/mike.leeeeee?igshid=MjEwN2IyYWYwYw=="><p>Instagram</p></a>
                             <br />
-                            <a href="@"><p>Coockies</p></a>
+                            <a href="https://www.healthline.com/nutrition/best-ways-to-burn-fat"><p>For You</p></a>
                             <br />
                         </div>
                     </div>
