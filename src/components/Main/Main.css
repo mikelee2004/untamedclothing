@@ -384,6 +384,9 @@
 }
 
 @media all and (max-width: 375px) {
+    body{
+        width: 100%;
+    }
     .maininfo h1 {
         font-size: 30px;
         color: black;
