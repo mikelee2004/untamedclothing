@@ -21,6 +21,7 @@ function Header() {
                             <li><a href="#categories">CATEGORIES</a></li>
                             <li><a href="#drops">DROPPED OUT</a></li>
                             <li><a href="#footer">ABOUT US</a></li>
+                            <li><a href="#footer">LOG IN</a></li>
                         </ul>
                     </div>
                     <div onClick={navToggle} className='bx bx-menu' id="menu-icon"></div>

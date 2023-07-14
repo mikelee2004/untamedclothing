@@ -383,25 +383,32 @@
     }
 }
 
-@media all and (max-width: 480px) {
+@media all and (max-width: 375px) {
     .maininfo h1 {
-        font-size: 42px;
+        font-size: 30px;
         color: black;
         padding-bottom: 10px;
     }
+
     .spanwhite{
         color: red;
     }
 
     .maininfo p {
-        font-size: 24px;
+        font-size: 15px;
         color:black;
         padding-bottom: 30px;
         letter-spacing: 3px;
     }
-
+    .maininfo a{
+        font-size: 15px;
+        padding: 13px 50px;
+    }
     .new-items p {
         font-size: 20px;
+    }
+    .shop {
+        padding: 0;
     }
 }
     
